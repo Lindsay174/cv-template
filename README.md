@@ -2,6 +2,8 @@
 
 A clean, minimalist, and semantic HTML/CSS template designed for developers, designers, and professionals to showcase their academic background, technical skills, and work experience. This project serves as a structured, production-ready starting point for a digital resume or portfolio website.
 
+This project was built as part of a challenge from [roadmap.sh](https://roadmap.sh/). 
+🔗 **Project Idea URL:** [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)  
 🔗 **Live Demo:** [https://Lindsay174.github.io/cv-template/](https://Lindsay174.github.io/cv-template/)
 
 ## 🚀 Features
