@@ -1,6 +1,8 @@
-# Responsive Curriculum Vitae Template
+# Curriculum Vitae Template
 
 A clean, minimalist, and semantic HTML/CSS template designed for developers, designers, and professionals to showcase their academic background, technical skills, and work experience. This project serves as a structured, production-ready starting point for a digital resume or portfolio website.
+
+🔗 **Live Demo:** [https://Lindsay174.github.io/cv-template/](https://Lindsay174.github.io/cv-template/)
 
 ## 🚀 Features
 
@@ -12,8 +14,9 @@ A clean, minimalist, and semantic HTML/CSS template designed for developers, des
 ## 📂 Project Structure
 
 ```bash
-└── project/
-    └── index.html      # Main application structure and layout containing inline styling
+└── cv-template/
+    ├── index.html      # Main application structure and layout containing inline styling
+    └── README.md       # Project documentation and guide
 ```
 
 ## 🛠️ Built With
@@ -32,7 +35,7 @@ A modern web browser (e.g., Google Chrome, Mozilla Firefox, Brave, Safari, Micro
 ### Installation
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/your-username/cv-template.git
+   git clone https://github.com/Lindsay174/cv-template.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -56,4 +59,4 @@ You can easily adapt this template to suit your personal branding:
 
 ## 📄 License
 
-This project is open-source and available under the **MIT License**. Feel free to use, modify, and distribute it as needed.
+This project is open-source and available under the **MIT License**.
